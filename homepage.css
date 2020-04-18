@@ -1,0 +1,25 @@
+#homepage {
+background-color: black;
+    width: 800px;
+    font-size: 16px;
+    height: 600px;
+    padding: 10px;
+    border-radius: 30px;
+    background-image: url(New%20Project.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-top: 100px;
+    
+}
+
+h4 {
+	font-weight: bold;
+}
+
+.images{
+   background-image: url(6778756_preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
